@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @i-kundankumar
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning C
 - 🧑🏻‍💻 I'm currently working on Portfolio
 - 💞️ I’m looking to collaborate on --N/A---
 - 📫 How to reach me on Instagram? @i_kundankumar_
