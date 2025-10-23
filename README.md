@@ -1,9 +1,9 @@
 ## 👋 Hi, I'm Kundan Kumar!
 🚀 Tech Enthusiast
 
-💡 Passionate about Android development, AI-powered applications, and cybersecurity. Currently building Note Ninja—an AI-powered note-taking assistant!
+💡 Passionate about Android development, AI-powered applications And Machine learning. Currently Learning Machine Learning!
 
-🔧 Skilled in Javascript, Java, Firebase, and Android Studio
+🔧 Skilled in Java, Firebase, and Android Studio and Cloud Computing.
 🎥 Running a YouTube channel with 10k+ subscribers, uploading lyric videos
 
 ## 🌐 Socials:
