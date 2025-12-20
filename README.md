@@ -4,7 +4,7 @@
 💡 Passionate about Android development, AI-powered applications And Machine learning. Currently Learning Machine Learning!
 
 🔧 Skilled in Java, Firebase, and Android Studio and Cloud Computing.
-🎥 Running a YouTube channel with 10k+ subscribers, uploading lyric videos
+🎥 Running a YouTube channel with 15k+ subscribers, uploading lyric videos
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_kundankumar_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/i-kundankumar) [![YouTube](http://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://www.youtube.com/@lyrics_wrld)
