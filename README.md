@@ -1,4 +1,4 @@
-<p align="center"><a href="https://i-kundankumar.github.io"> <img width="80%" alt="Hello, I'm Kundan. I do open source!" src="./assets/kk-readme-header.png" /></a></p>
+<p align="center"><a href="https://i-kundankumar.github.io"> <img width="70%" alt="Hello, I'm Kundan. I do open source!" src="./assets/kk-readme-header.png" /></a></p>
 
 <br />
 
