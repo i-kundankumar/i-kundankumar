@@ -15,11 +15,12 @@ I'm a self-taught passionate developer from India 🇮🇳
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-| <a href="https://github.com/i-kundankumar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=i-kundankumar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/i-kundankumar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-kundankumar&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=i-kundankumar&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-kundankumar&layout=compact&theme=transparent&card_width=300&hide_border=true)
 
 #### Top Repositories
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=i-kundankumar&repo=Medisense&theme=transparent&description_lines_count=2)](https://github.com/i-kundankumar/Medisense)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=i-kundankumar&repo=SmartInvitationScanner&theme=transparent&description_lines_count=2)](https://github.com/i-kundankumar/SmartInvitationScanner)
 
 
 
