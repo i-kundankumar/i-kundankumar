@@ -14,8 +14,7 @@ I'm a self-taught passionate developer from India 🇮🇳
 <code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=i-kundankumar&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true)
+![i-kundankumar's GitHub Stats](https://readme-stats-github-five.vercel.app/api?username=i-kundankumar)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-kundankumar&layout=compact&theme=transparent&card_width=300&hide_border=true)
 
 #### Top Repositories
