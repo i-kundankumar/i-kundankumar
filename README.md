@@ -14,12 +14,12 @@ I'm a self-taught passionate developer from India 🇮🇳
 <code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-![i-kundankumar's GitHub Stats](https://readme-stats-github-five.vercel.app/api?username=i-kundankumar&v=2)
-![Top Languages](https://readme-stats-github-five.vercel.app/api/top-langs/?username=i-kundankumar&v=2)
+![i-kundankumar's GitHub Stats](https://readme-stats-github.pages.dev/api?username=i-kundankumar&v=2)
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs/?username=i-kundankumar&v=2)
 
 #### Top Repositories
-[![Repository](https://readme-stats-github-five.vercel.app/api/repo/?username=i-kundankumar&repo=Medisense&v=2)](https://github.com/i-kundankumar/Medisense)
-[![Repository](https://readme-stats-github-five.vercel.app/api/repo/?username=i-kundankumar&repo=SmartInvitationScanner&v=2)](https://github.com/i-kundankumar/SmartInvitationScanner)
+[![Repository](https://readme-stats-github.pages.dev/api/repo/?username=i-kundankumar&repo=Medisense&v=2)](https://github.com/i-kundankumar/Medisense)
+[![Repository](https://readme-stats-github.pages.dev/api/repo/?username=i-kundankumar&repo=SmartInvitationScanner&v=2)](https://github.com/i-kundankumar/SmartInvitationScanner)
 
 
 
